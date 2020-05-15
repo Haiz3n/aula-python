@@ -1,20 +1,129 @@
-#adicao
-print(3 + 2)
+#ATENCAO VALERIUM NAO LEIA AS LINHAS DE CODIGO, APENAS EXECUTE
 
-#subtracao
-print(4 - 1)
 
-#multiplicacao
-print(8 * 5)
 
-#divisao
-print(8 / 2)
 
-#potenciacao
-print(4 ** 3)
+#LEIA ACIMA
 
-#radiciacao
-raiz = 9 ** (1/2)  
-print(raiz)
 
-#mude os numeros como quizer(somente nao mude o (1/2) da radiciacao)
+
+
+
+
+
+#LEIA ACIMA
+
+
+
+
+
+
+
+#LEIA ACIMA
+
+
+
+
+
+
+
+#LEIA ACIMA
+
+
+
+
+#VOLTE E LEIA A 1º LINHA
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+mensagem3 = "É simples porém de coração"
+
+age = 18
+
+idade = "_anos"
+
+mensagem = "Feliz_aniversário"
+
+Para_Vittorio = str(mensagem) + "_de_" + str(age) + str(idade) + "!"
+
+titulo = "Para Vittorio de Ricardo"
+
+mensagem2 = "Obrigado por ser a pessoa que você é."
+
+mensagem_final = str(Para_Vittorio) + '\n' + str(mensagem2)
+
+Total = str(titulo) + '\n' + str(mensagem_final) + '\n' + str(mensagem3)
+
+print(Total)
+
+
